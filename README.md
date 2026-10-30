@@ -1,6 +1,6 @@
 # Voice models
 
-Place your Piper voice model files here if you want Crystal to speak with Piper instead of the local fallback.
+Place your Piper voice model files here 
 
 Example files:
 - `en_US-amy-medium.onnx`
